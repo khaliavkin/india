@@ -1,10 +1,10 @@
 [
   {
-    "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
-    "address": {
+    "adsBlock1": true,
+    "adsBlock2": false,
+    "adsBlock3": true,
+    "adsBlock4": true,
+    "adsBlock": {
       "street": "Kulas Light",
       "suite": "Apt. 556",
       "city": "Gwenborough",
