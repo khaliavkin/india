@@ -1,5 +1,11 @@
 [
     {
+        'adsBlock1': true,
+        'adsBlock2': false,
+        'adsBlock3': true,
+        'adsBlock4': true,
+    },
+    {
       "id": 1,
       "name": "Leanne Graham",
       "username": "Bret",
