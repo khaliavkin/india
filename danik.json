@@ -1,9 +1,9 @@
 [
     {
-        'adsBlock1': true,
-        'adsBlock2': false,
-        'adsBlock3': true,
-        'adsBlock4': true,
+        "adsBlock1": true,
+        "adsBlock2": false,
+        "adsBlock3": true,
+        "adsBlock4": true,
     },
     {
       "id": 1,
