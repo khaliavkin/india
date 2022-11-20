@@ -1,7 +1,7 @@
 [
     {
       "adsBlock1": {
-        "state": "stop",
+        "state": "start",
         "mainCreo": "https://i.ytimg.com/vi/Q9j6pqSzN5M/maxresdefault.jpg",
         "mainText": "🎁Bonusový balíček 5000 CZK + 🍒120 zatočení zdarma",
         "link" : "https://ru.m.wikipedia.org/wiki/%D0%90%D0%B7%D0%B0%D1%80%D0%BE%D0%B2,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AF%D0%BD%D0%BE%D0%B2%D0%B8%D1%87",
@@ -13,7 +13,7 @@
     },
     {
         "adsBlock2": {
-          "state": "stop",
+          "state": "start",
           "mainCreo": "https://www.creocommunity.es/wp-content/uploads/2022/07/GTA-Online-agrega-recompensas-de-casino-adicionales-en-la-actualizacion.jpg",
           "mainText": "2 - Play Bonus🥰😤🥱",
           "link" : "https://www.facebook.com/",
@@ -25,7 +25,7 @@
       },
       {
         "adsBlock3": {
-          "state": true,
+          "state": "start",
           "mainCreo": "https://www.creocommunity.es/wp-content/uploads/2022/07/GTA-Online-agrega-recompensas-de-casino-adicionales-en-la-actualizacion.jpg",
           "mainText": "3 - Play Bonus🥰😤🥱",
           "link" : "https://www.facebook.com/",
@@ -37,7 +37,7 @@
       },
       {
         "adsBlock4": {
-          "state": true,
+          "state": "start",
           "mainCreo": "https://www.creocommunity.es/wp-content/uploads/2022/07/GTA-Online-agrega-recompensas-de-casino-adicionales-en-la-actualizacion.jpg",
           "mainText": "4 - Play Bonus🥰😤🥱",
           "link" : "https://www.facebook.com/",
@@ -49,7 +49,7 @@
       },
       {
         "adsBlock5": {
-          "state": true,
+          "state": "start",
           "mainCreo": "https://www.creocommunity.es/wp-content/uploads/2022/07/GTA-Online-agrega-recompensas-de-casino-adicionales-en-la-actualizacion.jpg",
           "mainText": "5 - Play Bonus🥰😤🥱",
           "link" : "https://www.facebook.com/",
